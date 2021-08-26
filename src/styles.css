@@ -1,0 +1,9 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid {
+	width: 400px;
+	height: 300px;
+	border: solid black 1px;
+}
